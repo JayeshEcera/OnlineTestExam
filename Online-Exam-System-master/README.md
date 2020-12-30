@@ -10,9 +10,7 @@
     - *automatic grading*
 
 
-## II.  Github
-
-https://github.com/caomingkai/Online-Exam-System.git
+## II. Backend Database
 
 - MongoDB, Mongoose
 - Node.js, Express
